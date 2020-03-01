@@ -9,6 +9,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     print(1)
+    print('new print')
     my_superfunction()
 
 
